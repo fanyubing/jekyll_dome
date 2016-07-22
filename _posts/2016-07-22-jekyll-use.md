@@ -7,13 +7,14 @@ title: jekyll using standards 使用规范
 
 2. 在该文件中，填入以下内容：（注意，行首不能有空格）
 
-	---
+---
+    ---
 	layout: default
 	title: 你好，世界
 	---
-　　<h2>{{ page.title }}</h2>
-　　<p>我的第一篇文章</p>
-　　<p>{{ page.date | date_to_string }}</p>
+	<h2>{{ page.title }}</h2>
+	<p>我的第一篇文章</p>
+    <p>{{ page.date | date_to_string }}</p>
 　　
 
 3. 每篇文章的头部，必须有一个yaml文件头，用来设置一些元数据。
