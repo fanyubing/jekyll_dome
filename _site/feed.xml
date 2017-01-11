@@ -5,8 +5,8 @@
     <description>made in jekyll</description>
     <link>/jekyll_dome/</link>
     <atom:link href="/jekyll_dome/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jan 2017 16:46:53 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Jan 2017 16:46:53 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Jan 2017 16:58:18 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Jan 2017 16:58:18 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -159,6 +159,14 @@ If you wish, you can add a leading and tailing pipe to each line of the table:
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	在yaml文件头后面，就是文章的正式内容，里面可以使用模板变量。	jekyll using standards 使用规范就是文件头中设置的&quot;你好，世界&quot;，	2016-07-22 00:00:00 +0800则是嵌入文件名的日期（也可以在文件头重新定义date变量），&quot;| date_to_string&quot;表示将page.date变量转化成人类可读的格式。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;发布&lt;/p&gt;
+
+    &lt;p&gt;正常的git管理发布&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;p&gt;文章参考: &lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;阮一峰的网络日志&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Jul 2016 00:00:00 +0800</pubDate>
